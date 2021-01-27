@@ -11,6 +11,8 @@ body {
 .card-footer{
   background-color: black;
 }
-.ol-lg-4 col-md-6 mb-4{
-  background-color: grey;
+
+.img-rounded{
+  max-width: 5%;
+  height: auto;
 }
